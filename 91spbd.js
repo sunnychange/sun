@@ -11,7 +11,7 @@ ios楦＄-鐮磋В
 [rewrite_local]
 
 
-^https?:\/\/.*\/m_sns\/(film|video|short_video)\/(film_detail|detail_list|apply_play) url script-request-header http://gjds666.cf/quantumultx/91sptk.js
+^https?:\/\/.*\/m_sns\/(film|video|short_video)\/(film_detail|detail_list|apply_play) url script-request-header https://raw.githubusercontent.com/sunnychange/sun/main/91sptk.js
 
 ^https?:\/\/.*\/m_user\/info url script-response-body http://gjds666.cf/quantumultx/91spbd.js
 
