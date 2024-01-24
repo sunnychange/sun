@@ -13,7 +13,7 @@ ios楦＄-鐮磋В
 
 ^https?:\/\/.*\/m_sns\/(film|video|short_video)\/(film_detail|detail_list|apply_play) url script-request-header https://raw.githubusercontent.com/sunnychange/sun/main/91sptk.js
 
-^https?:\/\/.*\/m_user\/info url script-response-body http://gjds666.cf/quantumultx/91spbd.js
+^https?:\/\/.*\/m_user\/info url script-response-body https://raw.githubusercontent.com/sunnychange/sun/main/91spbd.js
 
 https:\/\/(h5.\w+.(fun|site|ltd)\/apis|api.cxznl.com|api.bjkmy.net)\/common\/homepage\/official_website_popup url reject-200
 
