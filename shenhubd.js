@@ -14,8 +14,8 @@ TG棰戦亾缇わ細https://t.me/iosapp520
 
 #绁炴埛鐩存挱
 ^http[s]?:\/\/jihulab\.com\/ReactJSTeams\/next.js\/raw\/master\/examples\/nested-components\/.gitignore url reject-200
-^https?:\/\/.*\.domain\.(services?|liuniukeji)\.(heshuangde|douyin123)\.(com|cc)\/index\.php\/App\/(User\/Info|Index\/Update|Account\/Login).*$ url script-response-body http://gjds666.cf/shenhu/shenhubd.js
-^https?:\/\/.*\.domain\.(services?|liuniukeji)\.(heshuangde|douyin123)\.(com|cc)\/index\.php\/App\/User\/Info.*$ url script-request-header http://gjds666.cf/shenhu/shenhutk.js
+^https?:\/\/.*\.domain\.(services?|liuniukeji)\.(heshuangde|douyin123)\.(com|cc)\/index\.php\/App\/(User\/Info|Index\/Update|Account\/Login).*$ url script-response-body https://raw.githubusercontent.com/sunnychange/sun/main/shenhubd.js
+^https?:\/\/.*\.domain\.(services?|liuniukeji)\.(heshuangde|douyin123)\.(com|cc)\/index\.php\/App\/User\/Info.*$ url script-request-header https://raw.githubusercontent.com/sunnychange/sun/main/shenhutk.js
 
 
 [mitm]
